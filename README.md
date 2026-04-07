@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/erpranto55/erpranto55/main/banner.png" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0EF7FF&size=28&center=true&vCenter=true&width=700&pause=1200&lines=Hello+there...+👋;I+am+Md+Eyamin+Rahman+Pranto;Good+to+see+you...!+😊" />
 </p>
 
@@ -13,7 +17,7 @@
 
 ###  About Me
 
-Competitive Programmer | Skilled in C, C++, JavaScript | Frontend Developer (React, Tailwind) | Strong in Data Structures & Algorithms | Codeforces Pupil | CodeChef 3⭐ | Passionate about solving complex problems & building scalable applications 🚀
+Competitive Programmer | Skilled in C, C++, JavaScript | Frontend Developer (React, Tailwind) | Strong in Data Structures & Algorithms | Codeforces Pupil | CodeChef 3⭐ | Passionate about solving complex problems & building scalable applications 
 
 ---
 
@@ -30,11 +34,9 @@ Competitive Programmer | Skilled in C, C++, JavaScript | Frontend Developer (Rea
 
 ---
 
-<div align="center" >
+<div  >
 
-<table style="border:none;">
-<tr style="border:none;">
-<td width="55%" valign="top" style="border:none;">
+<img align="right" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJtcW5wMnBsYW4zbXhjd3RsbHlkZndrOTNmbDUxOTAwOXM5N3J3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ###  Talking About Me
 
@@ -43,15 +45,7 @@ Competitive Programmer | Skilled in C, C++, JavaScript | Frontend Developer (Rea
 -  Focused on **Competitive Programming & Problem Solving**
 -  Reach me: **erpranto55@gmail.com**
 
-</td>
-
-<td width="45%" style="border:none;">
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJtcW5wMnBsYW4zbXhjd3RsbHlkZndrOTNmbDUxOTAwOXM5N3J3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" />
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 </div>
 
