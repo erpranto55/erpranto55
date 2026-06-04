@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/erpranto55/erpranto55/main/banner.png" />
+  <img src="https://raw.githubusercontent.com/erpranto55/erpranto55/main/MD Eyamin Rahman Pranto.png" />
 </p>
 
 <p align="center">
