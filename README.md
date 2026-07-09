@@ -1,27 +1,30 @@
-<h1 align="center">Hi , I'm Md Eyamin Rahman Pranto</h1>
-<h3 align="center">Full-Stack Web Developer | Competitive Programmer | Problem Solver</h3>
+<h1 align="center">Hi, I'm Md Eyamin Rahman Pranto</h1>
+<h3 align="center">MERN Stack Developer | Competitive Programmer | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=erpranto55&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/erpranto55/erpranto55/main/MD Eyamin Rahman Pranto.png" />
+  <img src="https://raw.githubusercontent.com/erpranto55/erpranto55/main/MD%20Eyamin%20Rahman%20Pranto.png" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0EF7FF&size=28&center=true&vCenter=true&width=700&pause=1200&lines=Hello+there...+👋;I+am+Md+Eyamin+Rahman+Pranto;Full-Stack+Web+Developer+🚀;Competitive+Programmer+💡;Good+to+see+you...!+😊" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0EF7FF&size=28&center=true&vCenter=true&width=700&pause=1200&lines=Md+Eyamin+Rahman+Pranto;MERN+Stack+Developer;Competitive+Programmer;Building+Production-Ready+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-###  About Me
+### About Me
 
-Full-Stack Web Developer | Skilled in **C, C++, JavaScript, TypeScript** | Building scalable solutions with **Next.js, React, Node.js & MongoDB** | Strong in **Data Structures & Algorithms** | Codeforces Pupil | CodeChef 3⭐ | LeetCode 350+ | Leading **Infinity Loopers** competitive programming team
+Motivated **MERN Stack Developer** with hands-on experience building production-ready full-stack applications using **React.js, Next.js, Node.js, Express.js, and MongoDB**.
+
+I enjoy designing scalable web applications, solving complex programming problems, and continuously learning modern technologies. Alongside full-stack development, I actively participate in competitive programming and enjoy tackling algorithmic challenges.
 
 ---
 
-<h3 align="center">🔗 Connect with Me</h3>
+<h3 align="center">Connect with Me</h3>
+
 <p align="center">
   <a href="https://linkedin.com/in/erpranto55"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>&nbsp;
   <a href="https://fb.com/erpranto55"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30"/></a>&nbsp;
@@ -38,13 +41,15 @@ Full-Stack Web Developer | Skilled in **C, C++, JavaScript, TypeScript** | Build
 
 <img align="right" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJtcW5wMnBsYW4zbXhjd3RsbHlkZndrOTNmbDUxOTAwOXM5N3J3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-###  Talking About Me
+### Current Focus
 
-- Currently building with **Next.js, React, Node.js, Express & MongoDB**
-- Deepening expertise in **System Design & Advanced DSA**
-- Leading **Infinity Loopers** — competitive programming team
-- Passionate about **scalable web architecture** and **algorithmic problem-solving**
-- Reach me: **erpranto55@gmail.com**
+- Building production-ready full-stack applications using **Next.js, React.js, Node.js, Express.js, and MongoDB**
+- Developing scalable and maintainable web architectures
+- Strengthening expertise in **System Design** and **Data Structures & Algorithms**
+- Working with **Better Auth**, **JWT**, **Stripe**, **TanStack Query**, and modern frontend tooling
+- Executive Member of **Eastern University Computing Club (EUCC)**
+- Active Competitive Programmer on **Codeforces**, **CodeChef**, and **LeetCode**
+- Contact: **erpranto55@gmail.com**
 
 <br clear="right"/>
 
@@ -52,136 +57,495 @@ Full-Stack Web Developer | Skilled in **C, C++, JavaScript, TypeScript** | Build
 
 ---
 
-###  My Absolute Favorites
+### Interests
 
-- Solving complex algorithmic problems
-- Competitive programming contests
-- Building full-stack production applications
-- Collaborating and leading developer teams
+- Full-Stack Web Development
+- Software Architecture
+- Competitive Programming
+- Data Structures & Algorithms
+- Open Source
+- Learning Modern Technologies
+
+---
+### Languages and Tools
+
+#### Programming Languages
+
+<p align="center">
+  <a href="https://www.cprogramming.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="36" title="C"/>
+  </a>&nbsp;
+
+  <a href="https://www.w3schools.com/cpp/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="36" title="C++"/>
+  </a>&nbsp;
+
+  <a href="https://www.java.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="36" title="Java"/>
+  </a>&nbsp;
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="36" title="JavaScript"/>
+  </a>&nbsp;
+
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="36" title="TypeScript"/>
+  </a>&nbsp;
+
+  <a href="https://www.w3.org/html/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="36" title="HTML5"/>
+  </a>&nbsp;
+
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="36" title="CSS3"/>
+  </a>
+</p>
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools</h3>
+#### Frontend Development
 
-**Languages**
 <p align="center">
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="36" title="C"/></a>&nbsp;
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="36" title="C++"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="36" title="JavaScript"/></a>&nbsp;
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="36" title="TypeScript"/></a>&nbsp;
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="36" title="HTML5"/></a>&nbsp;
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="36" title="CSS3"/></a>
-</p>
+  <a href="https://react.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="36" title="React"/>
+  </a>&nbsp;
 
-**Frontend**
-<p align="center">
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="36" title="React"/></a>&nbsp;
-  <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="36" title="Next.js"/></a>&nbsp;
-  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="36" title="Tailwind CSS"/></a>
-</p>
+  <a href="https://nextjs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="36" title="Next.js"/>
+  </a>&nbsp;
 
-**Backend & Database**
-<p align="center">
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="36" title="Node.js"/></a>&nbsp;
-  <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="36" title="Express.js"/></a>&nbsp;
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="36" title="MongoDB"/></a>&nbsp;
-  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="36" title="Firebase"/></a>
-</p>
+  <a href="https://tailwindcss.com/">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="36" title="Tailwind CSS"/>
+  </a>&nbsp;
 
-**Tools & Design**
-<p align="center">
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="36" title="Git"/></a>&nbsp;
-  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="36" title="Figma"/></a>
+  <a href="https://www.heroui.com/">
+    <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge" height="36" title="HeroUI"/>
+  </a>&nbsp;
+
+  <a href="https://daisyui.com/">
+    <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" height="36" title="DaisyUI"/>
+  </a>&nbsp;
+
+  <a href="https://motion.dev/">
+    <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer" height="36" title="Framer Motion"/>
+  </a>
 </p>
 
 ---
 
-###  Featured Projects
+#### Backend Development
+
+<p align="center">
+  <a href="https://nodejs.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="36" title="Node.js"/>
+  </a>&nbsp;
+
+  <a href="https://expressjs.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="36" title="Express.js"/>
+  </a>&nbsp;
+
+  <a href="https://jwt.io/">
+    <img src="https://cdn.simpleicons.org/jsonwebtokens" height="36" title="JWT"/>
+  </a>&nbsp;
+
+  <a href="https://www.better-auth.com/">
+    <img src="https://img.shields.io/badge/Better%20Auth-000000?style=for-the-badge" height="36" title="Better Auth"/>
+  </a>
+</p>
+
+---
+
+#### Database
+
+<p align="center">
+  <a href="https://www.mongodb.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="36" title="MongoDB"/>
+  </a>&nbsp;
+
+  <a href="https://mongoosejs.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original-wordmark.svg" height="36" title="Mongoose"/>
+  </a>&nbsp;
+
+  <a href="https://www.mongodb.com/atlas">
+    <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb" height="36" title="MongoDB Atlas"/>
+  </a>
+</p>
+
+---
+
+#### Libraries & State Management
+
+<p align="center">
+  <a href="https://tanstack.com/query/latest">
+    <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" height="36" title="TanStack Query"/>
+  </a>&nbsp;
+
+  <a href="https://react-hook-form.com/">
+    <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" height="36" title="React Hook Form"/>
+  </a>&nbsp;
+
+  <a href="https://zod.dev/">
+    <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge" height="36" title="Zod"/>
+  </a>&nbsp;
+
+  <a href="https://recharts.org/">
+    <img src="https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge" height="36" title="Recharts"/>
+  </a>
+</p>
+
+---
+
+#### Authentication & Payments
+
+<p align="center">
+  <a href="https://firebase.google.com/">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+       height="36"
+       title="Firebase Authentication"/>
+  </a>&nbsp;
+
+  <a href="https://www.better-auth.com/">
+    <img src="https://img.shields.io/badge/Better%20Auth-000000?style=for-the-badge"
+         height="36"
+         title="Better Auth"/>
+  </a>&nbsp;
+
+  <a href="https://stripe.com/">
+    <img src="https://cdn.simpleicons.org/stripe"
+         height="36"
+         title="Stripe"/>
+  </a>
+</p>
+
+---
+
+#### Tools & Platforms
+
+<p align="center">
+  <a href="https://git-scm.com/">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="36" title="Git"/>
+  </a>&nbsp;
+
+  <a href="https://github.com/">
+    <img src="https://cdn.simpleicons.org/github" height="36" title="GitHub"/>
+  </a>&nbsp;
+
+  <a href="https://code.visualstudio.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="36" title="VS Code"/>
+  </a>&nbsp;
+
+  <a href="https://www.postman.com/">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="36" title="Postman"/>
+  </a>&nbsp;
+
+  <a href="https://vercel.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" height="36" title="Vercel"/>
+  </a>&nbsp;
+
+  <a href="https://www.netlify.com/">
+    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="36" title="Netlify"/>
+  </a>&nbsp;
+
+  <a href="https://www.figma.com/">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="36" title="Figma"/>
+  </a>&nbsp;
+
+  <a href="https://developer.chrome.com/docs/devtools/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" height="36" title="Chrome DevTools"/>
+  </a>
+</p>
+
+---
+
+### Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3> Wanderlust</h3>
-      <p>A full-featured <strong>tour booking platform</strong> where users can explore, book, and manage travel packages with real-time availability and secure payments.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-      </p>
-      <p>
-        <strong>Key Features:</strong> Dynamic tour listing, user authentication, booking management, admin dashboard
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3> Mediqueue</h3>
-      <p>An <strong>online tutor-finding platform</strong> (medical/academic) connecting students with expert tutors featuring smart scheduling and real-time chat.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-      </p>
-      <p>
-        <strong>Key Features:</strong> Tutor discovery, session booking, review system, role-based access control
-      </p>
-    </td>
-  </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>StartupForge</h3>
+
+<p>
+A production-ready startup team-building platform that connects founders with skilled collaborators through an intelligent recruitment system. The platform provides secure authentication, real-time dashboards, payment integration, and optimized application management for modern startup ecosystems.
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</p>
+
+<p>
+
+<strong>Key Features</strong>
+
+</p>
+
+<ul>
+
+<li>Founder dashboard with real-time analytics and applicant management.</li>
+
+<li>Role-based authentication using Better Auth and JWT.</li>
+
+<li>Smart form validation powered by React Hook Form and Zod.</li>
+
+<li>Optimized data fetching with TanStack Query.</li>
+
+<li>Secure Stripe payment integration.</li>
+
+<li>Responsive user experience with HeroUI and Framer Motion.</li>
+
+</ul>
+
+<p>
+
+<b>Tech Stack:</b>
+
+Next.js 16 • React 19 • Node.js • Express.js • MongoDB • Better Auth • JWT • Stripe • TanStack Query • React Hook Form • Zod • HeroUI • Recharts • Framer Motion
+
+</p>
+
+<p>
+
+<a href="https://startup-forge-nine.vercel.app/">Live Demo</a> |
+<a href="https://github.com/erpranto55/StartupForge">Client</a> |
+<a href="https://github.com/erpranto55/StartupForge-server">Server</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>Wanderlust</h3>
+
+<p>
+
+A production-ready travel booking platform that enables users to discover destinations, manage reservations, and monitor travel history through a secure and intuitive dashboard.
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge"/>
+
+</p>
+
+<p>
+
+<strong>Key Features</strong>
+
+</p>
+
+<ul>
+
+<li>Secure tour booking with flexible scheduling.</li>
+
+<li>Role-based authentication and protected routes.</li>
+
+<li>Travel dashboard with booking history.</li>
+
+<li>Expense tracking for completed tours.</li>
+
+<li>Fast and responsive user interface.</li>
+
+<li>Production-ready deployment on Vercel.</li>
+
+</ul>
+
+<p>
+
+<b>Tech Stack:</b>
+
+Next.js • React • Tailwind CSS • HeroUI • Better Auth • MongoDB Atlas • DaisyUI
+
+</p>
+
+<p>
+
+<a href="https://wanderlust-ten-psi.vercel.app/">Live Demo</a> |
+<a href="https://github.com/erpranto55/Wanderlust">Client</a> |
+<a href="https://github.com/erpranto55/Wanderlust-server">Server</a>
+
+</p>
+
+</td>
+
+</tr>
+
 </table>
 
 ---
 
-###  Competitive Programming Achievements
+
+### Competitive Programming
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Codeforces-Pupil-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CodeChef-3⭐-orange?style=for-the-badge&logo=codechef&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LeetCode-350%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Codeforces-Pupil-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CodeChef-3★-orange?style=for-the-badge&logo=codechef&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LeetCode-350%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
 </p>
 
--  Active **C++ competitive programmer** with focus on graph theory, DP, and greedy algorithms
--  Founder & Leader of **Infinity Loopers** — competitive programming team
--  Consistently participating in Codeforces rounds, CodeChef Long Challenges & LeetCode weekly contests
+- Active Competitive Programmer with a strong foundation in Data Structures and Algorithms.
+- Regular participant in Codeforces, CodeChef, and LeetCode contests.
+- Executive Member of Eastern University Computing Club (EUCC).
+- Interested in Graph Theory, Dynamic Programming, Greedy Algorithms, and Problem Solving.
 
 ---
 
-###  Code Representation
+### Developer Profile
 
 ```javascript
 const pranto = {
-  pronouns: "he/him",
-  code: ["C", "C++", "JavaScript", "TypeScript", "HTML", "CSS"],
-  frontend: ["React", "Next.js", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js"],
-  databases: ["MongoDB", "Firebase"],
-  tools: ["Git", "Figma", "Postman"],
-  problemSolving: ["Data Structures", "Algorithms", "Competitive Programming"],
-  achievements: [
-    "Codeforces Pupil",
-    "CodeChef 3⭐",
-    "LeetCode 350+ Problems Solved",
-    "Infinity Loopers Team Lead"
+  name: "Md Eyamin Rahman Pranto",
+
+  pronouns: "He/Him",
+
+  role: "MERN Stack Developer",
+
+  languages: [
+    "C",
+    "C++",
+    "Java",
+    "JavaScript",
+    "TypeScript"
   ],
-  currentFocus: "Building Production-Grade Full-Stack Applications",
-  challenge: "Shipping scalable web solutions & grinding DSA daily 🚀"
+
+  frontend: [
+    "React",
+    "Next.js",
+    "Tailwind CSS",
+    "HeroUI",
+    "DaisyUI"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "REST API",
+    "JWT",
+    "Better Auth"
+  ],
+
+  database: [
+    "MongoDB",
+    "MongoDB Atlas",
+    "Mongoose"
+  ],
+
+  libraries: [
+    "TanStack Query",
+    "React Hook Form",
+    "Zod",
+    "Framer Motion",
+    "Recharts"
+  ],
+
+  services: [
+    "Firebase Authentication",
+    "Stripe"
+  ],
+
+  tools: [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Postman",
+    "Vercel",
+    "Netlify",
+    "Chrome DevTools",
+    "Figma"
+  ],
+
+  interests: [
+    "Full-Stack Development",
+    "System Design",
+    "Competitive Programming",
+    "Open Source"
+  ],
+
+  currentlyLearning: [
+    "Advanced Backend Architecture",
+    "Performance Optimization",
+    "Scalable Systems"
+  ],
+
+  currentFocus:
+    "Building production-ready full-stack applications.",
+
+  funFact:
+    "I enjoy solving algorithmic problems as much as building products."
 };
 ```
 
 ---
 
-<h3> Contribution Graph</h3>
+### GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erpranto55&theme=tokyo-night" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=erpranto55&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erpranto55&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-<h3> Daily Streak</h3>
+### Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erpranto55&theme=tokyonight" alt="erpranto55" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=erpranto55&theme=tokyo-night"/>
+
 </p>
 
 ---
 
+### GitHub Streak
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=erpranto55&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+### Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erpranto55&theme=tokyonight"/>
+
+</p>
+
+---
+
+### Quote
+
+<p align="center">
+
+<i>"First, solve the problem. Then, write the code."</i>
+
 </p>
