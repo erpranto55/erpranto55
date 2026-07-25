@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Md Eyamin Rahman Pranto</h1>
-<h3 align="center">MERN Stack Developer | Competitive Programmer | Problem Solver</h3>
+<h3 align="center">Full Stack Engineer | MERN Stack Developer | Competitive Programmer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=erpranto55&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/erpranto55/erpranto55/main/MD%20Eyamin%20Rahman%20Pranto.png" />
+  <img src="https://raw.githubusercontent.com/erpranto55/erpranto55/main/MD_Eyamin_Rahman_Pranto.png" />
 </p>
 
 <p align="center">
@@ -34,6 +34,27 @@ I enjoy designing scalable web applications, solving complex programming problem
   <a href="https://codeforces.com/profile/erpranto55"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30"/></a>&nbsp;
   <a href="https://www.leetcode.com/erpranto55"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/></a>
 </p>
+
+---
+
+### 💼 Work Experience
+
+#### 🔹 Full Stack Engineer — **C&T Home Care**
+_July 2026 - Present | Dhaka, Bangladesh (On-site - USA Shift)_
+- Working full-time at the Dhaka office on-site, aligned with USA standard time to coordinate and deliver solutions for a USA-based company.
+- Architecting and building full-stack web features utilizing React, Next.js, Node.js, and MongoDB.
+- Designing clean, modular database schemas and implementing secure, performant RESTful APIs.
+- Collaborating on codebase architecture, security protocols, and robust frontend-backend integrations.
+- **Tech Stack:** React.js • Next.js • Node.js • Express.js • MongoDB • Better Auth • Tailwind CSS
+
+---
+
+#### 🔹 Next.js Developer Intern — **Shop Online New York**
+_June 2026 - July 2026 | Remote_
+- Integrated the admin dashboard frontend with backend-provided REST APIs, ensuring accurate data flow and reliable rendering across dashboard modules.
+- Identified and resolved frontend bugs across dashboard views, improving stability and consistency of the admin interface.
+- Collaborated closely with backend and product teams in a real-world, fast-paced development environment, strengthening team communication and delivery workflow.
+- **Tech Stack:** Next.js • React.js • Tailwind CSS • RESTful APIs • Dashboard UI • Git
 
 ---
 
@@ -67,7 +88,7 @@ I enjoy designing scalable web applications, solving complex programming problem
 - Learning Modern Technologies
 
 ---
-### Languages and Tools
+### Technical Skills
 
 #### Programming Languages
 
@@ -80,10 +101,6 @@ I enjoy designing scalable web applications, solving complex programming problem
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="36" title="C++"/>
   </a>&nbsp;
 
-  <a href="https://www.java.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="36" title="Java"/>
-  </a>&nbsp;
-
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="36" title="JavaScript"/>
   </a>&nbsp;
@@ -92,12 +109,8 @@ I enjoy designing scalable web applications, solving complex programming problem
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="36" title="TypeScript"/>
   </a>&nbsp;
 
-  <a href="https://www.w3.org/html/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="36" title="HTML5"/>
-  </a>&nbsp;
-
-  <a href="https://www.w3schools.com/css/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="36" title="CSS3"/>
+  <a href="https://www.java.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="36" title="Java"/>
   </a>
 </p>
 
@@ -106,28 +119,24 @@ I enjoy designing scalable web applications, solving complex programming problem
 #### Frontend Development
 
 <p align="center">
-  <a href="https://react.dev/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="36" title="React"/>
+  <a href="https://www.w3.org/html/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="36" title="HTML5"/>
   </a>&nbsp;
 
-  <a href="https://nextjs.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="36" title="Next.js"/>
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="36" title="CSS3"/>
   </a>&nbsp;
 
   <a href="https://tailwindcss.com/">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="36" title="Tailwind CSS"/>
   </a>&nbsp;
 
-  <a href="https://www.heroui.com/">
-    <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge" height="36" title="HeroUI"/>
+  <a href="https://react.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="36" title="React.js"/>
   </a>&nbsp;
 
-  <a href="https://daisyui.com/">
-    <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" height="36" title="DaisyUI"/>
-  </a>&nbsp;
-
-  <a href="https://motion.dev/">
-    <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer" height="36" title="Framer Motion"/>
+  <a href="https://nextjs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="36" title="Next.js"/>
   </a>
 </p>
 
@@ -142,6 +151,10 @@ I enjoy designing scalable web applications, solving complex programming problem
 
   <a href="https://expressjs.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="36" title="Express.js"/>
+  </a>&nbsp;
+
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/REST">
+    <img src="https://img.shields.io/badge/RESTful_APIs-0055FF?style=for-the-badge" height="36" title="RESTful APIs"/>
   </a>&nbsp;
 
   <a href="https://jwt.io/">
@@ -190,30 +203,24 @@ I enjoy designing scalable web applications, solving complex programming problem
 
   <a href="https://recharts.org/">
     <img src="https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge" height="36" title="Recharts"/>
+  </a>&nbsp;
+
+  <a href="https://motion.dev/">
+    <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer" height="36" title="Framer Motion"/>
   </a>
 </p>
 
 ---
 
-#### Authentication & Payments
+#### Payments & Auth Services
 
 <p align="center">
-  <a href="https://firebase.google.com/">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-       height="36"
-       title="Firebase Authentication"/>
-  </a>&nbsp;
-
-  <a href="https://www.better-auth.com/">
-    <img src="https://img.shields.io/badge/Better%20Auth-000000?style=for-the-badge"
-         height="36"
-         title="Better Auth"/>
-  </a>&nbsp;
-
   <a href="https://stripe.com/">
-    <img src="https://cdn.simpleicons.org/stripe"
-         height="36"
-         title="Stripe"/>
+    <img src="https://cdn.simpleicons.org/stripe" height="36" title="Stripe"/>
+  </a>&nbsp;
+
+  <a href="https://firebase.google.com/">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="36" title="Firebase Authentication"/>
   </a>
 </p>
 
@@ -234,20 +241,16 @@ I enjoy designing scalable web applications, solving complex programming problem
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="36" title="VS Code"/>
   </a>&nbsp;
 
-  <a href="https://www.postman.com/">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="36" title="Postman"/>
-  </a>&nbsp;
-
-  <a href="https://vercel.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" height="36" title="Vercel"/>
+  <a href="https://firebase.google.com/">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="36" title="Firebase"/>
   </a>&nbsp;
 
   <a href="https://www.netlify.com/">
     <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="36" title="Netlify"/>
   </a>&nbsp;
 
-  <a href="https://www.figma.com/">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="36" title="Figma"/>
+  <a href="https://vercel.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" height="36" title="Vercel"/>
   </a>&nbsp;
 
   <a href="https://developer.chrome.com/docs/devtools/">
@@ -421,60 +424,64 @@ const pranto = {
 
   pronouns: "He/Him",
 
-  role: "MERN Stack Developer",
+  role: "Full Stack Engineer & MERN Stack Developer",
+
+  experience: {
+    current: "Full Stack Engineer at C&T Home Care",
+    previous: "Next.js Developer Intern at Shop Online New York"
+  },
 
   languages: [
     "C",
     "C++",
-    "Java",
     "JavaScript",
-    "TypeScript"
+    "TypeScript",
+    "Java"
   ],
 
   frontend: [
-    "React",
-    "Next.js",
+    "HTML5",
+    "CSS3",
     "Tailwind CSS",
-    "HeroUI",
-    "DaisyUI"
+    "React.js",
+    "Next.js"
   ],
 
   backend: [
     "Node.js",
     "Express.js",
-    "REST API",
+    "RESTful APIs",
     "JWT",
     "Better Auth"
   ],
 
   database: [
     "MongoDB",
-    "MongoDB Atlas",
-    "Mongoose"
+    "Mongoose",
+    "MongoDB Atlas"
   ],
 
   libraries: [
     "TanStack Query",
     "React Hook Form",
     "Zod",
-    "Framer Motion",
-    "Recharts"
+    "Recharts",
+    "Framer Motion"
   ],
 
   services: [
-    "Firebase Authentication",
-    "Stripe"
+    "Stripe",
+    "Firebase Authentication"
   ],
 
   tools: [
     "Git",
     "GitHub",
     "VS Code",
-    "Postman",
-    "Vercel",
+    "Firebase",
     "Netlify",
-    "Chrome DevTools",
-    "Figma"
+    "Vercel",
+    "Chrome DevTools"
   ],
 
   interests: [
